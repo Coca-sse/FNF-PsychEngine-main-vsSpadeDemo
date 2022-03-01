@@ -1,0 +1,30 @@
+{
+	"storyName": "annoying blue haired teenager",
+	"hideFreeplay": false,
+	"weekBackground": "street",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"weirdo",
+			"spade",
+			[
+				255,
+				0,
+				102
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Spade week"
+}

@@ -1,0 +1,235 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "seriously bf, how the heck do we keep getting\\nin these situations?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "beep bop skadee bop boop do bee",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "fair enough",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "strangers",
+			"text": "hey-",
+			"boxState": "normal",
+			"portrait": "spade",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "AHHH!",
+			"boxState": "angry",
+			"speed": 0.015,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "oh",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "looking away",
+			"text": "i swear, nobody says hi back anymore...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spade"
+		},
+		{
+			"expression": "confused",
+			"text": "anyways, who are you? i've never seen you before.",
+			"boxState": "normal",
+			"portrait": "spade",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "my name's gf, and this guy's name is bf",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "bruh",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "spade",
+			"speed": 0.1
+		},
+		{
+			"expression": "talk",
+			"text": "are you serious?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spade"
+		},
+		{
+			"expression": "talk",
+			"text": "yup",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "looking away",
+			"text": "alright then.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spade"
+		},
+		{
+			"expression": "talk",
+			"text": "beep boop bop boop bop bop boop beep.",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "what??",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spade"
+		},
+		{
+			"expression": "pissed",
+			"text": "beep beep bop beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "wha-",
+			"boxState": "normal",
+			"speed": 0.01,
+			"portrait": "spade"
+		},
+		{
+			"expression": "pissed",
+			"text": "beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.075,
+			"portrait": "spade"
+		},
+		{
+			"expression": "looking away",
+			"text": "what is he saying?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spade"
+		},
+		{
+			"expression": "talk",
+			"text": "he wants to rap battle you",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "he wants to what?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spade"
+		},
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "I legitimately don’t know what you're talking about-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spade"
+		},
+		{
+			"expression": "talk",
+			"text": "just pick up the mic and... start singing!",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "beep!",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...okay fine.",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "spade"
+		},
+		{
+			"expression": "???",
+			"text": "",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "spade"
+		},
+		{
+			"expression": "looking away",
+			"text": "maybe it'll be fun yeah.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "spade"
+		},
+		{
+			"expression": "talk",
+			"text": "okay i'll do it.",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "spade"
+		},
+		{
+			"expression": "excited",
+			"text": "bep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}
